@@ -1,0 +1,14 @@
+D:\GitHub\AllTheSameGame\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\UnityEditor.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\UnityEngine.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GitHub\AllTheSameGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GitHub\AllTheSameGame\obj\Debug\Assembly-CSharp.dll
+D:\GitHub\AllTheSameGame\obj\Debug\Assembly-CSharp.pdb
